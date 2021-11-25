@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\MinticCiclo4\\grupo3"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\ejercicio HtmlCss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ejercicio HtmlCss"
+	}
+}
